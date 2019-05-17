@@ -59,6 +59,7 @@ public class GoldModel extends GameModel {
 			0),
 			Color.CYAN, 2.0);
 
+
 	
 			
 	/** Graphical representation of the collector */
